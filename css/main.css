@@ -1,0 +1,56 @@
+body {
+  background: #1a1a1a;
+  color: #fff;
+}
+
+
+  img {
+    width:200px;
+    height: 200px;
+    padding: 0px;
+  }
+audio {
+    width:400px;
+
+  }
+
+
+#source {
+  color: #b0b0b0;
+  font-size: 8px;
+}
+
+h1 {
+  color: #7df731;
+  font-size: 5rem;
+}
+
+a:link {
+  color: #7df731;
+}
+
+/* visited link */
+a:visited {
+  color: #7df731;
+}
+
+/* mouse over link */
+a:hover {
+  color: #a1ff66;
+}
+
+strong {
+  color: #7df731;
+}
+
+
+footer {
+  background: #7df731;
+  padding: 1rem;
+  font-size: 0.8rem;
+  color: #1a1a1a;
+}
+
+#xanny {
+  border-color: #7df731;
+}
